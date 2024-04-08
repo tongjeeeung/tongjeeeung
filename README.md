@@ -15,4 +15,4 @@
 - [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31scewxfqetgr5ukuno3yblwniiq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ff2e2e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h2 align="left">Языки и инструменты:</h2>
-<p align="left">![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</p>
+<p align="left"> <a href="![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)"></p>
