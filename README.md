@@ -4,7 +4,7 @@
 <p>Я начинающий Фронтенд-разработчик:) Знакомство с вебом произошло еще в 16 лет, тогда пытался делать простенькие html стараницы сам. После нескольких языков программирования, таких как Python, C, решил взял курс от Яндекс практикума.</p>
 
 <div id="header" align="center">
-  <img src="https://sun9-49.userapi.com/impg/J9APw2N8ztRRcUjgJGYlhD1k0G0XIQ0Cbf4A8w/JomYV7BUygA.jpg?size=735x490&quality=95&sign=16db62c7872aa92884e0878bebf7350d&type=album" width="100%" height="40%" overflow="hidden"/>
+  <img src="https://sun9-42.userapi.com/impg/mIHijXc2tM1Btj_G9ZfPYS3SQ-3vYPXqcZTT9Q/Wl1s3KduR98.jpg?size=1080x1080&quality=96&sign=c8073de4d8ef79a6066bf1ac3e01442a&type=album" width="100%" height="40%"/>
 </div>
 
 - 🌱 Окончил курс от Яндекса **Фронтенд-разработчик.**
