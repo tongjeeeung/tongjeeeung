@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Ivan+Loshchinin;Frontend+Developer;React+%7C+TypeScript+%7C+Next.js" alt="Btlushka" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Btlushka;Frontend+Developer;React+%7C+TypeScript+%7C+Next.js" alt="Btlushka" />
 
 **React · TypeScript · Next.js**  
 Краснодар · remote / hybrid · open to relocate
