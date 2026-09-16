@@ -1,16 +1,61 @@
-<h1 align="center">Привет/ мой никнейм Tong</h1>
+<div align="center">
 
-<h2 align="left">Обо мне:</h2>
-<p>Я Фронтенд-разработчик:) Знакомство с вебом произошло еще в 16 лет, тогда пытался делать простенькие html стараницы сам. После нескольких языков программирования, таких как Python, C, решил взял курс от Яндекс практикума.</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Ivan+Loshchinin;Frontend+Developer;React+%7C+TypeScript+%7C+Next.js" alt="Btlushka" />
 
-<div id="header" align="center">
-  <img src="https://sun9-42.userapi.com/impg/mIHijXc2tM1Btj_G9ZfPYS3SQ-3vYPXqcZTT9Q/Wl1s3KduR98.jpg?size=1080x1080&quality=96&sign=c8073de4d8ef79a6066bf1ac3e01442a&type=album" width="100%" height="40%"/>
+**React · TypeScript · Next.js**  
+Краснодар · remote / hybrid · open to relocate
+
+[![Telegram](https://img.shields.io/badge/Telegram-tongjeeeung-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tongjeeeung)
+[![Email](https://img.shields.io/badge/email-tongjeeeung%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tongjeeeung@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-tongjeeeung-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tongjeeeung)
+
 </div>
 
-- 🌱 Окончил курс от Яндекса **Фронтенд-разработчик.**
-- 📝 Telegram [@tongjeeeung](https://web.telegram.org/a/@tongjeeeung)
-- 📫 Связаться со мной **tongjeeeung@gmail.com**
-- ⚡ Интересный факт **хозяин русской борзой)**
+---
 
-<h2 align="left">Языки и инструменты:</h2>
-<p align="left"> <p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
+### Обо мне
+
+Фронтенд-разработчик с коммерческим опытом с **2025**. Собираю продукты с нуля: архитектура, запросы, стейт, вёрстка, PWA.
+
+Раньше вебом занимался сам (HTML ещё в 16), затем прошёл **Яндекс Практикум**. Сейчас в проде — React/TS, параллельно углубляю Vue и смотрю Swift.
+
+Сильные стороны: аккуратная вёрстка, понятная структура приложения, работа с API и состоянием.
+
+---
+
+### Стек
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,vue,vite,html,css,scss,tailwind,webpack,git" alt="Tech stack" />
+</p>
+
+```text
+Core      React · TypeScript · Next.js · Redux · JavaScript
+UI        HTML · CSS · SCSS · CSS Modules · Tailwind
+Apps      PWA (Serwist) · React Native · Vue 3 · Pinia
+Tooling   Vite · Webpack · Axios · Git
+Now       Vue (боевой проект) · Swift
+```
+
+---
+
+### Что можно посмотреть
+
+| Проект | О чём | Стек | Ссылки |
+|:---|:---|:---|:---|
+| **Fitness PWA** | Коммерческий фитнес-сайт и PWA: SSR, SEO, офлайн, push | Next.js, React, TS | [app.tmplfitness.ru](https://app.tmplfitness.ru) |
+| **Surf Coffee** | Пет: витрина с нуля | React, Redux, Tailwind, Vite | [код](https://github.com/tongjeeeung/surf-coffee) · [демо](https://tongjeeeung.github.io/surf-coffee) |
+| **Cherry Shop** | Пет: магазин с нуля | Vue 3, Pinia, TS, Vite | [код](https://github.com/tongjeeeung/cherry-shop-vue) · [демо](https://tongjeeeung.github.io/cherry-shop-vue) |
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tongjeeeung&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tongjeeeung&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="160" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=tongjeeeung&style=flat-square&color=58A6FF" alt="Profile views" />
+
+</div>
